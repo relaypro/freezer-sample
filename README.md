@@ -29,3 +29,9 @@ Through the Relay Assistant, Query recent data via voice.
 
 * "Status" =>  "All freezers are operating normally"
 * "Temperature Main Freezer" => "Main Freezer temperature is 26 degrees Fahrenheit"
+
+# Workflow Configuration
+
+```
+
+```

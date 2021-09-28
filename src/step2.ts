@@ -1,5 +1,3 @@
-import './env'
-
 import { relay, createWorkflow } from '@relaypro/sdk'
 import { Event } from '@relaypro/sdk/dist/enums'
 
